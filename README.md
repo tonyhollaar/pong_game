@@ -1,4 +1,5 @@
 # Pong Game
+![Pong Game](https://raw.githubusercontent.com/tonyhollaar/pong_game/master/img/classic%20game%20pong.jpg)
 
 Pong Game is a simple implementation of the classic Pong game using Python and the Turtle graphics library. This README provides an overview of the project structure and how the game works.
 
