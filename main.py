@@ -71,6 +71,3 @@ while game_is_on:
         scoreboard.r_point()
 
 screen.exitonclick()
-
-# # Press the green button in the gutter to run the script.
-# if __name__ == '__main__':
